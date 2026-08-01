@@ -20,15 +20,6 @@
 
 ---
 
-## 📌 Projects
-
-Here are a few projects that I'd like to show :)
-
-<a href="#projects">
-  <img src="https://img.shields.io/badge/-Pinned%20Projects-blue" />
-</a>
-
----
 
 ## About Me
 
@@ -76,3 +67,10 @@ But most of my projects are built with Java, Spring Boot and PostgreSQL
     <img src="https://cdn.simpleicons.org/googlechrome" alt="Portfolio" width="40" height="40"/>
   </a> -->
 </p>
+
+---
+
+# 📌 Projects
+
+Here are a few projects that I'd like to show :)
+
