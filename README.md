@@ -7,13 +7,13 @@
       />
     </td>
   <td>
-
+  <h3>
     I'm Pavel
     
     Backend Engineer
     
     I enjoy solving problems that computers are good at, so people don't have to :)
-    
+  </h3>
   </td>
   </tr>
 </table>
@@ -21,7 +21,7 @@
 ---
 
 
-## About Me
+# About Me
 
 I enjoy solving engineering problems, designing backend systems and automating repetitive work.
 
@@ -57,9 +57,16 @@ But most of my projects are built with Java, Spring Boot and PostgreSQL
   <!-- <a href="" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a> -->
-  <a href="mailto:phuharev@gmail.com">
-    <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/64/mail.png" alt="Email" width="40" height="40"/>
-  </a>
+  
+<a href="mailto:phuharev@gmail.com">
+  <img
+    src="https://cdn.simpleicons.org/gmail"
+    alt="Email"
+    width="30"
+    height="30"
+  />
+</a>
+  
   <a href="https://t.me/pavlentiyy1" target="_blank">
     <img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" width="40" height="40"/>
   </a>
