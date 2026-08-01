@@ -24,6 +24,10 @@
 
 Here are a few projects that I'd like to show :)
 
+<a href="#projects">
+  <img src="https://img.shields.io/badge/-Pinned%20Projects-blue" />
+</a>
+
 ---
 
 ## About Me
