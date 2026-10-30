@@ -64,6 +64,20 @@ But most of my projects are built with **Java**, **Spring Boot** and **PostgreSQ
 
 ---
 
+### 💼 Freelance
+
+<p>
+  <a href="[KWORK_URL](https://kwork.ru/user/phuharev)" target="_blank">
+    <img src="https://img.shields.io/badge/Kwork-1E9E5A?style=flat-square" alt="Kwork"/>
+  </a>
+  <a href="[FL_URL](https://www.fl.ru/users/phuharev/portfolio/)" target="_blank">
+    <img src="https://img.shields.io/badge/FL.ru-E8452C?style=flat-square" alt="FL.ru"/>
+  </a>
+  <a href="PROFI_URL" target="_blank">
+    <img src="https://img.shields.io/badge/Профи.ру-3B5BDB?style=flat-square" alt="Profi.ru"/>
+  </a>
+</p>
+
 # 📌 Projects
 
 Here are a few projects that I'd like to show :)
